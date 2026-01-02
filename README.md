@@ -12,7 +12,7 @@ end-to-end implementation aligned with business goals.
 
 ---
 
-## 🧩 What I Do
+##  What I Do
 - Business & requirement analysis based on user needs  
 - Business process mapping and documentation  
 - Translating business problems into system and data requirements  
