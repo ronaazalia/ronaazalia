@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi, I’m Rona 👋
 
-<!--
-**ronaazalia/ronaazalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔍 Actively Exploring Opportunities | Business Analyst | Process Improvement | Data-Driven Decision Making | Project Management | Change Management
+Business Analyst & Junior Project Manager with 3+ years of experience
+translating business needs into system requirements, with a strong focus
+on ERP (Epicor), change management, and cross-functional collaboration.
 
-Here are some ideas to get you started:
+I work closely with business users, IT teams, and vendors to analyze
+operational challenges, design structured solutions, and support
+end-to-end implementation aligned with business goals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💼 Professional Background
+- **IT Project Coordinator** at PT Mowilex Indonesia  
+- Experience across **Business Analysis, Project Coordination, and Change Management**
+- Hands-on involvement in **ERP implementation (Epicor)** from UAT to post-go-live
+- Led and managed **200+ Change Requests** end-to-end
+- Produced **30+ Business Requirement Documents (BRD)**
+
+---
+
+## 🧩 What I Do
+- Business & requirement analysis based on user needs  
+- Business process mapping and documentation  
+- Translating business problems into system and data requirements  
+- Supporting IT projects from planning to delivery  
+- SQL-based analysis to support operational and management decisions  
+
+---
+
+## 🛠️ Skills & Tools
+**Business & Analysis**
+- Requirement elicitation & documentation  
+- Business process analysis  
+- Stakeholder communication  
+- Change request management  
+
+**Tools & Technologies**
+- ERP: Epicor  
+- SQL: MS SQL Server, PostgreSQL  
+- Project & Change Management: Jira 
+- Data & Reporting: Power BI, Excel  
+- Process Modeling: Any equivalent tools 
+
+---
+
+## 📂 Portfolio Highlights
+- 📊 **SQL Analysis** – Query-based analysis to support business and operational decision-making  
+- 🔄 **Business Process Analysis** – End-to-end process diagrams for core manufacturing workflows
+- **Project Management** - Placeholder  
+
+👉 Explore my work here:  
+- [Business Analyst Portfolio](./business-analyst-portfolio)
+
+---
+
+## 🌍 Languages
+- English  
+- Bahasa Indonesia
+
+---
+
+## 📫 Let’s Connect
+- LinkedIn: [Rona Azalia Hasanah](https://www.linkedin.com/in/ronaazalia)  
+- Email: ronaazalia.h@gmail.com  
+- Location: Jakarta, Indonesia 
+
+---
+
+*All projects and data showcased are created for portfolio purposes
+and do not contain confidential or proprietary information.*
