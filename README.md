@@ -27,6 +27,7 @@ end-to-end implementation aligned with business goals.
 - Requirement elicitation & documentation  
 - Business process analysis  
 - Stakeholder communication  
+- Project Management, SDLC
 - Change request management  
 
 **Tools & Technologies**
