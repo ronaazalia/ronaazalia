@@ -17,7 +17,8 @@ end-to-end implementation aligned with business goals.
 - Business process mapping and documentation  
 - Translating business problems into system and data requirements  
 - Supporting IT projects from planning to delivery  
-- SQL-based analysis to support operational and management decisions  
+- SQL-based analysis to support operational and management decisions
+- Analyze requirement, translate into technical requirements and customize Jira workflow, automation, work type and field to fit the business needs.
 
 ---
 
