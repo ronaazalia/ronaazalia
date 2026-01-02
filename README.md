@@ -11,15 +11,6 @@ end-to-end implementation aligned with business goals.
 
 ---
 
-## 👩‍💼 Professional Background
-- **IT Project Coordinator** at PT Mowilex Indonesia  
-- Experience across **Business Analysis, Project Coordination, and Change Management**
-- Hands-on involvement in **ERP implementation (Epicor)** from UAT to post-go-live
-- Led and managed **200+ Change Requests** end-to-end
-- Produced **30+ Business Requirement Documents (BRD)**
-
----
-
 ## 🧩 What I Do
 - Business & requirement analysis based on user needs  
 - Business process mapping and documentation  
@@ -29,7 +20,7 @@ end-to-end implementation aligned with business goals.
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills
 **Business & Analysis**
 - Requirement elicitation & documentation  
 - Business process analysis  
