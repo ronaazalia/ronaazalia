@@ -45,7 +45,8 @@ end-to-end implementation aligned with business goals.
 - **Project Management** - Placeholder  
 
 👉 Explore my work here:  
-- [Business Analyst Portfolio](./business-analyst-portfolio)
+- [Business Analyst Portfolio](https://github.com/ronaazalia/business-analyst-portfolio)
+
 
 ---
 
