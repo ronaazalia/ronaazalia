@@ -1,6 +1,6 @@
 # Hi, I’m Rona 👋
 
-**🔍 Actively Exploring Opportunities | Business Analyst | Process Improvement | Data-Driven Decision Making | Project Management | Change Management**
+**🔍 Actively Exploring Opportunities | Business Analyst | Junior Project Manager | Process Improvement | Data-Driven Decision Making | Project Management | Change Management**
 
 Business Analyst & Junior Project Manager with 3+ years of experience
 translating business needs into system requirements, with a strong focus
