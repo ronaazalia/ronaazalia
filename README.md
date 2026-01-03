@@ -35,14 +35,14 @@ end-to-end implementation aligned with business goals.
 - SQL: MS SQL Server, PostgreSQL  
 - Project & Change Management: Jira 
 - Data & Reporting: Power BI, Excel  
-- Process Modeling: Any equivalent tools 
+- Process Modeling: Ms. Visio, draw io, any equivalent tools 
 
 ---
 
 ## 📂 Portfolio Highlights
 - 📊 **SQL Analysis** – Query-based analysis to support business and operational decision-making  
 - 🔄 **Business Process Analysis** – End-to-end process diagrams for core manufacturing workflows
-- **Project Management** - Placeholder  
+- **Project Management** - to be updated soon  
 
 👉 Explore my work here:  
 - [Business Analyst Portfolio](https://github.com/ronaazalia/business-analyst-portfolio)
